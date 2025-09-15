@@ -1,0 +1,121 @@
+[
+    {
+        "task": "Khora Presentation",
+        "due_date": "23-09-25",
+        "priority": "Medium",
+        "status": "Pending",
+        "created": "2025-09-15T20:24:50.321253"
+    },
+    {
+        "task": "Elsass Exercises + Sound Categories",
+        "due_date": "22-09-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:25:10.653637"
+    },
+    {
+        "task": "Elsass Equipment Setup",
+        "due_date": "16-09-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:25:28.154844"
+    },
+    {
+        "task": "ICAD Board Meeting",
+        "due_date": "16-09-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:25:36.228515"
+    },
+    {
+        "task": "A+T Lecture Description",
+        "due_date": "19-09-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:25:58.424516"
+    },
+    {
+        "task": "MOCO Paper Finalization",
+        "due_date": "01-11-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:26:34.000709"
+    },
+    {
+        "task": "Daniel Hug Lecture",
+        "due_date": "09-10-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:27:11.182675"
+    },
+    {
+        "task": "A+T Guest Lecture",
+        "due_date": "21-10-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:27:31.856790"
+    },
+    {
+        "task": "Elsass Workshop 1",
+        "due_date": "14-10-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:27:42.566518"
+    },
+    {
+        "task": "ITDD Presentations",
+        "due_date": "26-09-25",
+        "priority": "Low",
+        "status": "Pending",
+        "created": "2025-09-15T20:38:33.153696"
+    },
+    {
+        "task": "ITDD Deadline G3",
+        "due_date": "29-09-25",
+        "priority": "Low",
+        "status": "Pending",
+        "created": "2025-09-15T20:38:56.377034"
+    },
+    {
+        "task": "ITDD Deadline G12, 13",
+        "due_date": "01-10-25",
+        "priority": "Low",
+        "status": "Pending",
+        "created": "2025-09-15T20:39:23.402561"
+    },
+    {
+        "task": "Odense PR Biometrics",
+        "due_date": "19-09-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:42:54.485881"
+    },
+    {
+        "task": "A+T Studiepraktik",
+        "due_date": "22-10-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:43:59.897046"
+    },
+    {
+        "task": "Ink Tech Lab Visit",
+        "due_date": "23-09-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:44:25.833236"
+    },
+    {
+        "task": "Daniel Hug Lit + Description",
+        "due_date": "30-09-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:47:02.769411"
+    },
+    {
+        "task": "Future of Welfare Tech N\u00e6stved",
+        "due_date": "30-09-25",
+        "priority": "High",
+        "status": "Pending",
+        "created": "2025-09-15T20:47:47.855786"
+    }
+]
